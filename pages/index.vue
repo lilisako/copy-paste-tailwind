@@ -16,10 +16,10 @@
     </div>
     <!-- end header -->
     <div class="grid grid-cols-1 md:grid-cols-2">
-      <Showcase url="https://github.com/lilisako/copy-paste-tailwind/blob/main/components/profile.vue#L2-L14" >
+      <Showcase hashtag="social-profile" url="https://github.com/lilisako/copy-paste-tailwind/blob/main/components/profile.vue#L2-L14" >
         <Profile />
       </Showcase>
-      <Showcase url="https://github.com/lilisako/copy-paste-tailwind" >
+      <Showcase hashtag="basic-button" url="https://github.com/lilisako/copy-paste-tailwind" >
          <RoundButton />
       </Showcase>
     </div>
