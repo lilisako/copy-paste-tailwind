@@ -4,13 +4,10 @@
     <div class="flex justify-between pl-4">
       <NuxtLink to="/">
         <div class="flex items-center">
-          <span class="mx-1 text-4xl material-icons">send</span>
-          <h1 class="text-3xl font-bold">
+          <span class="mx-1 text-4xl material-icons">content_copy</span>
+          <h1 class="text-md md:text-2xl font-bold">
             Copy-Paste Tailwind
           </h1>
-          <p class="mx-4 text-xs font-bold text-gray-400">
-            Tailwindのデザインをコピペで完結
-          </p>
         </div>
       </NuxtLink>
     </div>
