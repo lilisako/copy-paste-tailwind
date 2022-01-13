@@ -1,6 +1,6 @@
 <template class="h-screen">
   <div class="py-16 px-4 md:px-14">
-  <!-- start header -->
+    <!-- start header -->
     <div class="flex justify-between pl-4">
       <NuxtLink to="/">
         <div class="flex items-center">
@@ -15,19 +15,23 @@
       </NuxtLink>
     </div>
     <!-- end header -->
-  <div class="grid grid-cols-1 md:grid-cols-2">
-    <!-- HTML box -->
-    <div class="p-4">
-      <div class="flex justify-center items-center h-80 rounded-xl shadow-xl">
-        <RoundButton />
-      </div>
+    <div class="grid grid-cols-1 md:grid-cols-2">
+      <!-- HTML box -->
+      <a href="https://github.com/lilisako/copy-paste-tailwind" target="_blank">
+        <div class="p-4">
+          <div class="flex justify-center items-center h-80 rounded-xl shadow-xl">
+            <RoundButton />
+          </div>
+        </div>
+      </a>
+      <a href="https://github.com/lilisako/copy-paste-tailwind" target="_blank">
+        <div class="p-4">
+          <div class="flex justify-center items-center h-80 rounded-xl shadow-xl">
+            <Profile />
+          </div>
+        </div>
+      </a>
     </div>
-    <div class="p-4">
-      <div class="flex justify-center items-center h-80 rounded-xl shadow-xl">
-        <RoundButton />
-      </div>
-    </div>
-  </div>
   </div>
 </template>
 
