@@ -16,28 +16,19 @@
     </div>
     <!-- end header -->
     <div class="grid grid-cols-1 md:grid-cols-2">
-      <!-- HTML box -->
-      <a href="https://github.com/lilisako/copy-paste-tailwind" target="_blank">
-        <div class="p-4">
-          <div class="flex justify-center items-center h-80 rounded-xl shadow-xl">
-            <RoundButton />
-          </div>
-        </div>
-      </a>
-      <a href="https://github.com/lilisako/copy-paste-tailwind" target="_blank">
-        <div class="p-4">
-          <div class="flex justify-center items-center h-80 rounded-xl shadow-xl">
-            <Profile />
-          </div>
-        </div>
-      </a>
+      <Showcase url="https://github.com/lilisako/copy-paste-tailwind/blob/main/components/profile.vue#L2-L14" >
+        <Profile />
+      </Showcase>
+      <Showcase url="https://github.com/lilisako/copy-paste-tailwind" >
+         <RoundButton />
+      </Showcase>
     </div>
   </div>
 </template>
 
-<script lang="ts">
-import Vue from 'vue'
+<script>
 
+import Vue from 'vue'
 export default Vue.extend({
 })
 </script>
