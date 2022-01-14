@@ -1,9 +1,9 @@
 <template>
   <a :href="'https://github.com/lilisako/copy-paste-tailwind/blob/main/components/' + url" target="_blank">
     <div class="p-4">
+      <p class="font-bold text-gray-200 text-center">#{{ hashtag }}</p>
       <div class="flex relative justify-center items-center h-80 rounded-xl shadow-xl">
         <div class="absolute top-8 left-4">
-          <p class="font-bold text-gray-200">#{{ hashtag }}</p>
         </div>
         <slot />
       </div>
