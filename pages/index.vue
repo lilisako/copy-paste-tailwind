@@ -13,11 +13,14 @@
     </div>
     <!-- end header -->
     <div class="grid grid-cols-1 md:grid-cols-2">
-      <Showcase hashtag="social-profile" url="https://github.com/lilisako/copy-paste-tailwind/blob/main/components/profile.vue#L2-L14">
-        <Profile />
+      <Showcase hashtag="news-article-card" url="https://github.com/lilisako/copy-paste-tailwind">
+        <NewsArticleCard />
       </Showcase>
       <Showcase hashtag="appointment-button" url="https://github.com/lilisako/copy-paste-tailwind">
         <AppointmentButton />
+      </Showcase>
+      <Showcase hashtag="social-profile" url="https://github.com/lilisako/copy-paste-tailwind/blob/main/components/profile.vue#L2-L14">
+        <Profile />
       </Showcase>
     </div>
   </div>
