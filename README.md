@@ -1,4 +1,6 @@
-# copy-paste-tailwind
+# Copy-Paste Tailwind
+This site allows you to copy-paste Tailwind code and use them for your project
+<img width="1191" alt="スクリーンショット 2022-01-14 15 47 18" src="https://user-images.githubusercontent.com/33516104/149463697-991f5792-51a4-4b69-92ab-a3cfdc9187d3.png">
 
 ## Build Setup
 
@@ -19,51 +21,17 @@ $ yarn generate
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
-## Special Directories
-
-You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
-
-### `assets`
-
-The assets directory contains your uncompiled assets such as Stylus or Sass files, images, or fonts.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/assets).
-
-### `components`
-
-The components directory contains your Vue.js components. Components make up the different parts of your page and can be reused and imported into your pages, layouts and even other components.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/components).
-
-### `layouts`
-
-Layouts are a great help when you want to change the look and feel of your Nuxt app, whether you want to include a sidebar or have distinct layouts for mobile and desktop.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
+## HOW TO CONTRIBUTE
+### CREATE ISSUE
+1. Go to issue page(https://github.com/lilisako/copy-paste-tailwind/issues) 
+2. Choose the subject of the issue you want to create. 
+3. Fill detail. 
+4. We will respond within 2-3 days.
 
 
-### `pages`
-
-This directory contains your application views and routes. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/get-started/routing).
-
-### `plugins`
-
-The plugins directory contains JavaScript plugins that you want to run before instantiating the root Vue.js Application. This is the place to add Vue plugins and to inject functions or constants. Every time you need to use `Vue.use()`, you should create a file in `plugins/` and add its path to plugins in `nuxt.config.js`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/plugins).
-
-### `static`
-
-This directory contains your static files. Each file inside this directory is mapped to `/`.
-
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/static).
-
-### `store`
-
-This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+### CREATE PULL REQUEST
+1. Clone this github repository to your local environment. 
+2. Make a branch from main branch. 
+3. Write code as you wish!✨
+4. Create a pull request from here(https://github.com/lilisako/copy-paste-tailwind/pulls) 
+5. We will review within 2-3 days.
