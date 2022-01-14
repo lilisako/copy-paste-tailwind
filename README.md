@@ -1,6 +1,6 @@
 # Copy-Paste Tailwind
 This site allows you to copy-paste Tailwind code and use them for your project
-<img width="1191" alt="スクリーンショット 2022-01-14 15 47 18" src="https://user-images.githubusercontent.com/33516104/149463697-991f5792-51a4-4b69-92ab-a3cfdc9187d3.png">
+![tailwind](https://user-images.githubusercontent.com/33516104/149466013-0f12d638-6b8c-49c9-9222-5ef78b9f3bc4.gif)
 
 ## Build Setup
 
