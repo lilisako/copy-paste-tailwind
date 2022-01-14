@@ -5,7 +5,7 @@
       <NuxtLink to="/">
         <div class="flex items-center">
           <span class="mx-1 text-4xl material-icons">content_copy</span>
-          <h1 class="text-md md:text-2xl font-bold">
+          <h1 class="font-bold md:text-2xl">
             Copy-Paste Tailwind
           </h1>
         </div>
@@ -13,11 +13,11 @@
     </div>
     <!-- end header -->
     <div class="grid grid-cols-1 md:grid-cols-2">
-      <Showcase hashtag="social-profile" url="https://github.com/lilisako/copy-paste-tailwind/blob/main/components/profile.vue#L2-L14" >
+      <Showcase hashtag="social-profile" url="https://github.com/lilisako/copy-paste-tailwind/blob/main/components/profile.vue#L2-L14">
         <Profile />
       </Showcase>
-      <Showcase hashtag="basic-button" url="https://github.com/lilisako/copy-paste-tailwind" >
-         <RoundButton />
+      <Showcase hashtag="appointment-button" url="https://github.com/lilisako/copy-paste-tailwind">
+        <AppointmentButton />
       </Showcase>
     </div>
   </div>

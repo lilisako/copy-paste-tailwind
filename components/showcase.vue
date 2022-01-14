@@ -1,9 +1,9 @@
 <template>
   <a :href="url" target="_blank">
     <div class="p-4">
-      <div class="flex justify-center items-center h-80 rounded-xl shadow-xl relative">
+      <div class="flex relative justify-center items-center h-80 rounded-xl shadow-xl">
         <div class="absolute top-8 left-4">
-          <p class="text-2xl font-bold text-gray-300">#{{ hashtag }}</p>
+          <p class="font-bold text-gray-200">#{{ hashtag }}</p>
         </div>
         <slot />
       </div>
