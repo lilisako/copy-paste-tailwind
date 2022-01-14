@@ -13,6 +13,9 @@
     </div>
     <!-- end header -->
     <div class="grid grid-cols-1 md:grid-cols-2">
+      <Showcase hashtag="customer-review-card" url="https://github.com/lilisako/copy-paste-tailwind">
+        <CustomerReview />
+      </Showcase>
       <Showcase hashtag="crypto-price-card" url="https://github.com/lilisako/copy-paste-tailwind">
         <CryptoCard />
       </Showcase>
