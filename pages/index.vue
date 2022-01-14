@@ -13,10 +13,10 @@
     </div>
     <!-- end header -->
     <div class="grid grid-cols-1 md:grid-cols-2">
-      <Showcase hashtag="customer-review-card" url="customer-review.vue#L2-L9">
+      <Showcase hashtag="customer-review-card" url="customer-review.vue#L2-L13">
         <CustomerReview />
       </Showcase>
-      <Showcase hashtag="crypto-price-card" url="crypto-card.vue#L2-L14">
+      <Showcase hashtag="crypto-price-card" url="crypto-card.vue#L2-L22">
         <CryptoCard />
       </Showcase>
       <Showcase hashtag="news-article-card" url="news-article-card.vue#L2-L39">
