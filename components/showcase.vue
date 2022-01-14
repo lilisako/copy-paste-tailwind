@@ -1,5 +1,5 @@
 <template>
-  <a :href="url" target="_blank">
+  <a :href="'https://github.com/lilisako/copy-paste-tailwind/blob/main/components/' + url" target="_blank">
     <div class="p-4">
       <div class="flex relative justify-center items-center h-80 rounded-xl shadow-xl">
         <div class="absolute top-8 left-4">

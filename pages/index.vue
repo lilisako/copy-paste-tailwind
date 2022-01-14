@@ -13,19 +13,19 @@
     </div>
     <!-- end header -->
     <div class="grid grid-cols-1 md:grid-cols-2">
-      <Showcase hashtag="customer-review-card" url="https://github.com/lilisako/copy-paste-tailwind">
+      <Showcase hashtag="customer-review-card" url="customer-review.vue#L2-L9">
         <CustomerReview />
       </Showcase>
-      <Showcase hashtag="crypto-price-card" url="https://github.com/lilisako/copy-paste-tailwind">
+      <Showcase hashtag="crypto-price-card" url="crypto-card.vue#L2-L14">
         <CryptoCard />
       </Showcase>
-      <Showcase hashtag="news-article-card" url="https://github.com/lilisako/copy-paste-tailwind">
+      <Showcase hashtag="news-article-card" url="news-article-card.vue#L2-L39">
         <NewsArticleCard />
       </Showcase>
-      <Showcase hashtag="appointment-button" url="https://github.com/lilisako/copy-paste-tailwind">
+      <Showcase hashtag="appointment-button" url="appointment-button.vue#L2-L38">
         <AppointmentButton />
       </Showcase>
-      <Showcase hashtag="social-profile" url="https://github.com/lilisako/copy-paste-tailwind/blob/main/components/profile.vue#L2-L14">
+      <Showcase hashtag="social-profile" url="profile.vue#L2-L14">
         <Profile />
       </Showcase>
     </div>
