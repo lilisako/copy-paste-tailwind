@@ -1,7 +1,7 @@
 <template>
   <div class="p-4 bg-gray-50 rounded-xl shadow-md">
     <div class="flex items-center py-4">
-      <img src="https://bitcoin.org/img/icons/opengraph.png?1641218872" class="w-12 h-12 rounded-full">
+      <img src="https://bitcoin.org/img/icons/opengraph.png" class="w-12 h-12 rounded-full">
       <div class="mx-4">
         <p class="font-bold">
           BTC
