@@ -13,6 +13,9 @@
     </div>
     <!-- end header -->
     <div class="grid grid-cols-1 md:grid-cols-2">
+      <Showcase hashtag="colorful-category-tag" url="colorful-category-tag.vue#L2-L35">
+        <ColorfulCategoryTag />
+      </Showcase>
       <Showcase hashtag="customer-review-card" url="customer-review.vue#L2-L13">
         <CustomerReview />
       </Showcase>
